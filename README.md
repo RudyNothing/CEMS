@@ -7,7 +7,6 @@ https://cems.infinityfreeapp.com/
 
 
 # Features
-
 ### 👨‍🎓 Student Features
 
 * Student Registration
